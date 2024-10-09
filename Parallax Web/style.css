@@ -1,0 +1,72 @@
+html,
+body{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "lato",sans-serif;
+    font-family: 400;
+    line-height: 1.8em;
+    color:#666;
+}
+.pimg1{
+     background-image: url(https://wallpapercave.com/wp/wp2599594.jpg);
+     min-height: 100%;
+    position: relative;
+    background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+}
+.pimg2{
+     background-image: url(https://wallup.net/wp-content/uploads/2015/12/243666-forest-simple_background-trees-path-nature-landscape.jpg);
+
+     min-height: 400px;
+     position: relative;
+     background-position: center;
+         background-size: cover;
+         background-repeat: no-repeat;
+         background-attachment: fixed;
+}
+.pimg3{
+    background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/08/Best-Nature-Full-HD-Images-For-Desktop.jpg);
+    min-height: 500px;
+    position: relative;
+    background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+}
+.ptext{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: black;
+     font-size: 30px;
+      letter-spacing:8px ;
+      text-transform: uppercase;
+}
+.textBg{
+    background: #2a2a2b;
+    color: #fff;
+    padding: 20px;
+}
+.section {
+    padding: 50px 80px;
+    text-align: center;
+}
+.section_light {
+    background-color: #18191b;
+    color: #ddd;
+    text-align: justify;
+}
+.section_dark {
+    background-color:#18191b ;
+    color: #ddd;
+    text-align: justify;
+}
+.section_shadow {
+    background-color: #18191b;
+    color: #ddd;
+    text-align: justify;
+}
